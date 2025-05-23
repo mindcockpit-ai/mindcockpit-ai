@@ -35,10 +35,16 @@ With over 30 years of experience across finance, aerospace, air traffic control,
 ## 🛠 Tech Stack & Specialties
 
 **Languages & Frameworks**  
-`Python` • `TypeScript` • `Java` • `C++` • `Node.js` • `React` • `FastAPI`
+`Python` • `TypeScript` • `Java` • `C++` • `Node.js` • `React` • `Angular` • `FastAPI` `Spring Boot` • `J2EE` • `Hibernate` • `JSF` • `Facelets` • `Seam` • `Django` • `JSP` • `XML` • `SQL`
+
+**Architecture & Design**
+`OOA` • `OOA` • `OOP` • `UML` • `Rational Rose/XDE` • `Together` • `Enterprise Architect`
+
+**Project Management & Consulting**
+`IT Consulting` • `IT Leadership` • `Outsourcing Management` • `Offshore` • `Nearshoring` • `Project Management` • `Coaching`
 
 **Infrastructure & Cloud**  
-`Ubuntu` • `Kubernetes (K3s)` • `Helm` • `Docker` • `GitOps` • `Terraform` • `AWS` • `Azure`
+`Linux` • `Kubernetes (K3s)` • `Helm` • `Docker` • `GitOps` • `Terraform` • `AWS` • `Azure`
 
 **Automation & Workflows**  
 `n8n` • `Jenkins` • `GitHub Actions` • `Ansible` • `Bash` • `CRON`
