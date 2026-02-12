@@ -5,7 +5,7 @@
 33 years of enterprise IT experience across **military aerospace** (EADS, Eurocopter, Airbus Defence & Space), **air traffic control** (Comsoft), **rail transport** (Swiss Federal Railways), **finance** (UniCredit, C1 FinCon), and **internet-scale platforms** (Lycos Europe) — now building the next generation of self-hosted, sovereign AI systems.
 
 🎓 Dipl.-Ing. (Uni.) Computer Science, Technical University Košice — graduated with distinction  
-🌍 7 languages: German, English, Russian, Slovak, Czech, Polish, Ukrainian
+🌍 7 languages: German, English, Slovak, Czech, Russian, Polish, Ukrainian
 
 ---
 
